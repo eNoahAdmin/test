@@ -1,0 +1,6 @@
+[03-Jan-2018 10:37:56 Etc/GMT] PHP Fatal error:  Call to undefined function ldap_connect() in /home/colandbe/public_html/babyears/application/libraries/REST_Controller.php on line 1847
+[03-Jan-2018 11:48:10 Etc/GMT] PHP Fatal error:  Call to undefined method User::getlang() in /home/colandbe/public_html/babyears/application/controllers/Api.php on line 48
+[03-Jan-2018 11:48:38 Etc/GMT] PHP Fatal error:  Call to undefined method User::getlang() in /home/colandbe/public_html/babyears/application/controllers/Api.php on line 48
+[03-Jan-2018 11:48:43 Etc/GMT] PHP Fatal error:  Call to a member function getlang() on null in /home/colandbe/public_html/babyears/application/controllers/Api.php on line 48
+[03-Jan-2018 11:57:25 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/colandbe/public_html/babyears/application/models/Dblang.php on line 25
+[03-Jan-2018 11:58:11 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/colandbe/public_html/babyears/application/models/Dblang.php on line 25
